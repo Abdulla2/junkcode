@@ -1,0 +1,22 @@
+database
+	main pass=abc123 usern=main
+		follow
+			followers
+			following
+		posts
+			post
+			writer
+			likes
+			shares
+			comments
+		comments
+			comment
+			writer
+			post
+			likes
+		persons
+			name
+			pass
+			email
+			
+		

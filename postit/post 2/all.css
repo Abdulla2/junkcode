@@ -1,0 +1,130 @@
+header {
+background-color: 8A2BE2;
+background-image: url("logo.JPG");
+background-repeat: no-repeat;
+background-position: right top;
+padding: 15px;
+margin-top: -30px;
+margin-right: -10px;
+margin-left: -10px;
+top: 0;
+background-size: 400;
+position: fixed;
+top: 29px;
+padding-right: 1282;
+}
+header1 {
+background-color: 8A2BE2;
+background-image: url("logo.JPG");
+background-repeat: no-repeat;
+background-position: right top;
+padding: 15px;
+margin-top: -30px;
+margin-right: -4px;
+margin-left: -13px;
+top: 0;
+background-size: 400;
+position: fixed;
+top: 29px;
+padding-right: 80%;
+}
+header a:link {color:#FF0000;}      /* unvisited link */
+header a:visited {color:#00FF00;}  /* visited link */
+header a:hover {color:#FF00FF; background_color:}  /* mouse over link */
+header a:active {color:#0000FF;}  /* selected link */
+enterheader {
+background-color: 8A2BE2;
+background-image: url("logo.JPG");
+background-repeat: no-repeat;
+background-position: right top;
+padding-left: 1352;
+padding-top: 10;
+padding-bottom: 15;
+margin-top: 0px;
+margin-bottom: 0;
+margin-right: -10px;
+margin-left: -10px;
+top: 0;
+background-size: 400;
+}
+
+
+
+
+
+#sub{
+background-color: #B8FF00;
+border: none;
+}
+#box {
+background-color: #12A2F3;
+border: none;
+color: #FFF;
+}
+
+signingup {
+text-align: right;
+
+}
+
+#sbox{
+background-color: 8A2BE2;
+border: none;
+color: #FFF;
+}
+#ssub{
+background-color: #6398DB;
+border: none;
+}
+#posts{
+margin-top: 50;
+margin-left: 50%;
+}
+#pagy{
+background-color: #6398DB;
+border: none;
+margin-right: -838;
+right: 5;
+margin-top: -26;
+margin-bottom: -30;
+width: 70%;
+padding-top: 27;
+padding-bottom: 30;
+}
+header2 {
+background-color: 8A2BE2;
+background-image: url("logo.JPG");
+background-repeat: no-repeat;
+background-position: right top;
+padding: 15px;
+margin-top: -30px;
+margin-right: -10px;
+margin-left: -10px;
+top: 0;
+background-size: 400;
+position: fixed;
+top: 29px;
+padding-right: 1249;
+}
+#pagy2 {
+background-color: #6398DB;
+border: none;
+margin-right: -766;
+right: 5;
+margin-top: -26;
+margin-bottom: -30;
+width: 70%;
+padding-top: 27;
+padding-bottom: 30;
+}
+#per{
+font-size: xx-large;
+text-align: center;
+}
+#postit{
+margin-left: 35%;
+width: 500;
+height: 50;
+
+
+}

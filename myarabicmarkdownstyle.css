@@ -1,0 +1,15 @@
+/*css to make html that copiled from markdown better and support ARABIC*/
+body {
+	direction: rtl;
+	background-color: black;
+	color: lavender;
+	font-size: x-large;
+	margin-right: 130px;
+	margin-top: 50px;
+}
+code{
+white-space: pre;
+}
+strong{
+	color: skyblue;
+}

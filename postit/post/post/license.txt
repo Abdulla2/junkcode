@@ -1,0 +1,59 @@
+$con=mysqli_connect("localhost","root","","post");
+// Check connection
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+
+// Create table
+$q1 = "CREATE TABLE persons (
+user_id INT(10) UNSIGNED AUTO_INCREMENT,
+username varchar(100) NOT NULL,
+password varchar(100) NOT NULL,
+user_email varchar(100) NOT NULL,
+UNIQUE (username),
+PRIMARY KEY (user_id)
+)DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci";
+// Execute query
+if (mysqli_query($con,$q1))
+  {
+  echo "Table persons created successfully";
+  }
+else
+  {
+  echo "Error creating table: " . mysqli_error($con);
+  }
+
+
+
+
+
+
+
+
+$con=mysqli_connect("localhost","root","","post");
+// Check connection
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
+
+// Create table
+$q1 = "INSERT INTO persons 
+VALUES ('','abdulla','123','hi')";
+// Execute query
+if (mysqli_query($con,$q1))
+  {
+  echo "Table persons created successfully";
+  }
+else
+  {
+  echo "Error creating table: " . mysqli_error($con);
+  }
+
+
+
+
+
+
+UPDATE  `post`.`persons` SET  `password` =  '123' WHERE  `persons`.`user_id` =3;

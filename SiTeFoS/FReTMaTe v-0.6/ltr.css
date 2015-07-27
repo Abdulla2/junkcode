@@ -1,0 +1,53 @@
+#main{
+	margin-right: 100px;
+	margin-left: 100px;
+
+	}
+#content{			
+	margin-right: 80px;							
+	margin-left: 30px; 
+	padding-right: 190px;
+	} /** has the blogs in it **/
+#everywidget{
+	padding-left: 10px;				
+	}
+#widgets{
+	margin-left: 775px;
+	padding-left: 10px;
+	}/** has the widgets in it **/
+#text_title{
+  	margin-left: auto;
+  	align-content: left;
+  	text-align: left;
+	} /** if the logo is a text not a picture this element describes it **/
+#headerads{
+	float: right;
+	margin-right: auto;
+	align-content: inherit;
+	} /** the ads which are in the header**/
+#title{
+	float: right;
+  	margin-left: auto;
+  	margin-right: auto;
+  	align-content: left;
+  	text-align: justify;
+	}
+#logo{
+	padding-left: 0px;
+	left: 0px;
+	float: left;
+	}
+#links {
+	float: left;
+	}
+#header {
+	right: 0px;
+	}
+#social {
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#search {
+	margin-left: auto;
+	}

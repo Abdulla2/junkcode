@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" />
+    <meta name="author" content="HUSSEN AL SHATRI" />
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>    <script>
+    $(document).ready(function(){
+      
+        $('.bg').change(function(){
+         localStorage.bg=$('.bg').val();
+        $('body').css('background',localStorage.bg);
+      
+        });
+     
+         if(localStorage.bg == 0){$('body').css('background','white');}else{
+            $('body').css('background',localStorage.bg);
+        }
+   
+    });
+    </script>
+    <title>Untitled 1</title>
+</head>
+
+<body>
+
+<select class="bg">
+    <option value="black">Black</option>
+    <option value="blue">Blue</option>
+    <option value="green">Green</option>
+</select>
+
+</body>
+</html>  

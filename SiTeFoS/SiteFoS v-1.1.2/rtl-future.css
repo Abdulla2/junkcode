@@ -1,0 +1,106 @@
+/**#main{
+	margin-left: 100px;
+	margin-right: 100px;
+
+	}
+#content{			
+	margin-left: 80px;							
+	margin-right: 30px; 
+	padding-left: 190px;
+	} 
+#everywidget{
+	padding-right: 10px;				
+	}
+#widgets{
+	margin-right: 775px;
+	padding-right: 10px;
+	}
+#text_title{
+  	margin-right: auto;
+  	align-content: right;
+  	text-align: right;
+	}
+#headerads{
+	float: left;
+	margin-left: auto;
+	align-content: inherit;
+	}
+#title{
+	float: left;
+  	margin-right: auto;
+  	margin-left: auto;
+  	align-content: right;
+  	text-align: justify;
+	}
+#logo{
+	padding-right: 0px;
+	right: 0px;
+	float: right;
+	}
+#links {
+	float: right;
+	}
+#header {
+	left: 0px;
+	}
+#social {
+	float: right;
+	margin-right: auto;
+	margin-left: auto;
+	}
+#search {
+	margin-right: auto;
+	} **/
+	#main{
+	margin-left: 100px;
+	margin-right: 100px;
+
+	}
+#content{			
+	margin-left: 80px;							
+	margin-right: 30px; 
+	padding-left: 190px;
+	} /** has the blogs in it **/
+#everywidget{
+	padding-right: 10px;				
+	}
+#widgets{
+	margin-right: 775px;
+	padding-right: 10px;
+	}/** has the widgets in it **/
+#text_title{
+  	margin-right: auto;
+  	align-content: right;
+  	text-align: right;
+	} /** if the logo is a text not a picture this element describes it **/
+#headerads{
+	float: left;
+	margin-left: auto;
+	align-content: inherit;
+	} /** the ads which are in the header**/
+#title{
+	float: left;
+  	margin-right: auto;
+  	margin-left: auto;
+  	align-content: right;
+  	text-align: justify;
+	}
+#logo{
+	padding-right: 0px;
+	right: 0px;
+	float: right;
+	}
+#links {
+	float: right;
+	}
+#header {
+	left: 0px;
+	}
+#social {
+	float: right;
+	margin-right: auto;
+	margin-left: auto;
+	}
+#search {
+	margin-right: auto;
+	}

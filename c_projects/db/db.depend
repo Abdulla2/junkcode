@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1398600832 source:f:\c\projects\db\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"db.h"
+
+1398600849 f:\c\projects\db\db.h
+	<stdio.h>
+

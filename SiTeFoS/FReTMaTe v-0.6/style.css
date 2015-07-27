@@ -1,0 +1,97 @@
+/*
+Theme Name: FReTMaTe
+Author: Abdulla
+Author URI: http://aalakkad.me
+Description: First Realy Try Making Template .
+Version: 0.1
+*/
+/*#blog{
+	border-radius: 15px;
+	margin-top: 20px;
+	border-style: hidden;
+	background-color: 
+	} describe every blog how will it apear
+	#main{
+	background-color: black;
+	margin-top: 170px;
+	} /** has 2 things the content [the blogs] and the widgets 
+#every-widget{
+	margin-top: 20px;
+	border-style: solid;
+	border-radius: 15px;
+	} /** describe every widget how will it apear
+#widgets{
+	position: fixed;
+	top: 205px;
+	width: 230px;
+	}/** has the widgets in it **/
+
+#text_title{
+  	position: absolute;
+  	margin-top: auto;
+
+  	color: white;
+ 	height: 70px;
+	} /** if the logo is a text not a picture this element describes it **/
+#headerads{
+	background-color: black;
+	color: white;
+	width: 30%;
+	height: 120px;
+	} /** the ads which are in the header**/
+#title{
+
+  	background-color: gray;
+ 	position: absolute;
+  	margin-top: auto;
+
+  	width: 100%;
+  	color: white;
+  	height: 120px;
+	} /** if the logo is a text not a picture this element describes it **/
+
+#logo{
+	width: 70%;
+	position: absolute;
+	top:33px;				
+	height: 120px;
+	} /**if the logo is a picture not a text this element describes it**/
+#ssearch{
+	border: black;
+	background-color: gray;
+	color: white;
+	} /**the subject form in the search**/
+#tsearch{
+	border: black;
+	background-color: rgb(250, 250, 250);
+	}/**the text form in  the search**/
+#links {
+	width: 50%;
+	} /**the pages of the blog**/
+#header_part1 {
+	background: black;
+	height: 33px;
+	}
+
+#header {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	} /**the all header**/
+#social {
+	width: 20%;
+	}/**the social network icons in the header**/
+#search {
+	width: 30%;
+	margin-top: auto;
+	margin-bottom: auto;
+	} /**the search elemnt**/
+			/**all the links properties:**/
+#header_part1 a:link {color:white;}      /* unvisited link */
+#header_part1 a:visited {color: white;}  /* visited link */
+#header_part1 a:hover {color:yellow;}  /* mouse over link */
+#header_part1 a:active {color:blue;}  /* selected link */
+#headerads a:link {color:white;font-size: 5px}      /* unvisited link */
+#headerads a:visited {color: white;}  /* visited link */
+#headerads a:hover {color:yellow;}  /* mouse over link */
+#headerads a:active {color:blue;}  /* selected link */

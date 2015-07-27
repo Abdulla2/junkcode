@@ -1,0 +1,8 @@
+body {		font-weight: bold;
+text-align:right;
+background-image: url("background.gif");
+color: white;
+}
+a:link {color:white;text-align:right; }
+h1{ color:red;text-align:right;}
+

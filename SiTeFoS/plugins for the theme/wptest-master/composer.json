@@ -1,0 +1,24 @@
+{
+    "name": "manovotny/wptest",
+    "version": "1.5.0",
+    "description": "WP Test - The Best Tests For WordPress.",
+    "type": "library",
+    "homepage": "http://wptest.io",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "data",
+        "export",
+        "import",
+        "tests",
+        "unit tests",
+        "wordpress"
+    ],
+    "authors": [
+        {
+            "name": "Michael Novotny",
+            "email": "manovotny@gmail.com",
+            "homepage": "http://manovotny.com",
+            "role": "Developer"
+        }
+    ]
+}
