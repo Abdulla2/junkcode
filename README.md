@@ -12,7 +12,7 @@ Those are old projects in many programming languages that I don't need any more 
 	* main : I think it is hello world
 	* qassem : The greatest common divisor
 * postit (partial not docced) : a try to beat facebook :P
-* SiTeFoS (completed partial docced) : a wordpress template , many versions 
+* SiTeFoS (completed , partial docced) : a wordpress template , many versions (link(It won't work fast because it is free hosting) : http://sample-sitefos.rhcloud.com/ ) 
 * tryhtml (completed docced) : I think it is the first version of SiTeFoS
 * myarabicmarkdownstyle.css (completed ) : very very very simple style file for rtl pages I used it when I am compiling markdown .
 
